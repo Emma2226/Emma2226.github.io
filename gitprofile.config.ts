@@ -100,18 +100,18 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
-      to: '2024',
+      institution: 'CSU Stanislaus',
+      degree: 'BS in Biological Sciences',
+      from: '2022',
+      to: '2026',
     },
     {
       institution: 'University of Texas at San Antonio',
