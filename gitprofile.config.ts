@@ -52,13 +52,13 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Emma Hoover',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'triciavanlaar',
-    twitter: 'tvanlaarmicro',
+    linkedin: '',
+    twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -71,9 +71,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://Emma2226.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'ehoover@csustan.edu',
   },
   resume: {
     fileUrl:
@@ -85,7 +85,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
+      position: 'Undergraduate Student',
       from: 'August 2022',
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
