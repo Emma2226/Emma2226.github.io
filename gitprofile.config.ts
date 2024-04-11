@@ -77,10 +77,10 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://tvanlaar.github.io/pdfs/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://Emma2226.github.io/pdf/EmmaHooverCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    '', '', ''
   ],
   experiences: [
     {
@@ -114,10 +114,10 @@ const CONFIG = {
       to: '2026',
     },
     {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
+      institution: '',
+      degree: '',
+      from: '',
+      to: '',
     },
   ],
   publications: [
