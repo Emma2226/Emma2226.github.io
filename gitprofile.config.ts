@@ -109,7 +109,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'CSU Stanislaus',
-      degree: 'BS in Biological Sciences',
+      degree: 'B.S. in Biological Sciences',
       from: '2022',
       to: 'Present',
     },
