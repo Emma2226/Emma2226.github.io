@@ -111,7 +111,7 @@ const CONFIG = {
       institution: 'CSU Stanislaus',
       degree: 'BS in Biological Sciences',
       from: '2022',
-      to: '2026',
+      to: 'Present',
     },
     {
       institution: '',
