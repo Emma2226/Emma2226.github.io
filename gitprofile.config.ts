@@ -80,7 +80,7 @@ const CONFIG = {
       'https://Emma2226.github.io/pdf/EmmaHooverCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Microbiology Lab Techniques', 'Organic Chemistry Lab Techniques', 'Bioinformatics'
+    'Microbiology Lab Techniques', 'Organic Chemistry Lab Techniques', 'Academic Writing', 'Bioinformatics'
   ],
   experiences: [
     {
